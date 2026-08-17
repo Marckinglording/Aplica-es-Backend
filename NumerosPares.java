@@ -11,6 +11,5 @@ public class NumerosPares {
                 System.out.println(i);
             }
         }
-
     }
 }

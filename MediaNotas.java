@@ -14,6 +14,5 @@ public class MediaNotas {
         else {
             System.out.println("Aluno reprovado!");
         }
-
     }
 }

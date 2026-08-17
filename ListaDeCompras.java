@@ -12,6 +12,5 @@ public class ListaDeCompras {
         for(int i = 0; i < produtos.length; i++) {
             System.out.println(produtos[i] + "                 " + precosA[i] + "                 " + precosB[i]);
         }
-
     }
 }
