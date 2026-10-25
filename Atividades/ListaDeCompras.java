@@ -1,3 +1,4 @@
+package Atividades;
 public class ListaDeCompras {
     
     public static void main(String [] args) {
